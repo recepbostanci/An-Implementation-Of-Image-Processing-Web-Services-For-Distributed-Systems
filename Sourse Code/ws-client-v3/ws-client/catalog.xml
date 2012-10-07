@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/ws-server/EdgeDetectionService?wsdl" uri="xml-resources/web-service-references/EdgeDetectionService/wsdl/localhost_8080/ws-server/EdgeDetectionService.wsdl"/>
+    <system systemId="http://localhost:8080/ws-server/EdgeDetectionService?xsd=1" uri="xml-resources/web-service-references/EdgeDetectionService/wsdl/localhost_8080/ws-server/EdgeDetectionService.xsd_1.xsd"/>
+    <system systemId="http://192.168.1.200:8080/ws-server/EdgeDetectionService?wsdl" uri="xml-resources/web-service-references/EdgeDetectionService/wsdl/192.168.1.200_8080/ws-server/EdgeDetectionService.wsdl"/>
+    <system systemId="http://192.168.1.200:8080/ws-server/EdgeDetectionService?xsd=1" uri="xml-resources/web-service-references/EdgeDetectionService/wsdl/192.168.1.200_8080/ws-server/EdgeDetectionService.xsd_1.xsd"/>
+</catalog>
